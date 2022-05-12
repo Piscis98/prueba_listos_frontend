@@ -27,7 +27,7 @@ Luego de tener el proyecto abra la carpeta del proyecto en una terminal
 
 Lo puede hacer ejecutando:
 
-cd frontend
+cd prueba_listos_frontend
 
 Luego de estar en la carpeta ejecute el comando:
 
