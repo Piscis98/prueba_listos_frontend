@@ -19,7 +19,7 @@ Para las respectivas instalaciones puede seguir las documentaciones oficiales qu
 
 Puede descargar el proyecto o si tiene git instalado ejecute el siguiente comando:
 
-git clone https://github.com/Piscis98/prueba-angular-cordova.git
+git clone https://github.com/Piscis98/prueba_listos_frontend.git
 
 ## Configuración
 
